@@ -149,7 +149,22 @@ No rights reserved. Use, adapt, build on without restriction.
 
 ---
 
-## Series navigation
+## Prior work in this series
+
+**Bio-Structural Information Units (BSIUs) — "3D Nuggets" (Haaland, 2025)**
+The BSIU white paper articulated the engineering vision this paper attempts to ground in physical criteria. It proposed that information should be embodied directly in the dynamic three-dimensional conformational state of matter rather than represented as abstract symbols — computation via physical self-organization rather than Boolean logic. Key claims that Paper 2 now has vocabulary for:
+
+- "Information is this physical state, constrained by physical laws" — now formalized as C1 (structural irreversibility)
+- "Physical relaxation to stable states" — now framed as dynamical steering toward energy minima
+- Hybrid architecture proposal (bits for symbolic I/O, BSIUs for physically grounded inference) — now the classical control plane argument in Section IV
+
+Where Paper 2 sharpens the BSIU framing: the integrity claim — "an untrue state would be physically unstable or impossible to form" — requires precision. Physical stability does not guarantee semantic accuracy. A resonant system can settle into a physically stable state that is semantically wrong. The C1/C2 operationalization gives the integrity argument the physical grounding it needs to be more than an appeal to physics.
+
+The BSIU paper was the engineering vision. Paper 2 is the clinical ground-level analysis of what that vision requires to be realized.
+
+---
+
+
 
 | Paper | Title | Status |
 |-------|-------|--------|
